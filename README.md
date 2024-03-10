@@ -1,22 +1,23 @@
 # ReginaFlores
 
 Vamos criar o site teste de regina flores!!!!!
-DB
+## DB
 
-index
-	hero
-	um poco dos produtos
-	sobre nós(resumo)
+## index
+
+- hero
+- um poco dos produtos
+- sobre nós(resumo)
  
-produtos
-	normal
+## produtos
+
+- normal
  
-conta 
-	login
-	senha
+## conta 
+
+- login
+- senha
 	
+## carrinho
 
-
-
-carrinho
-admininiastradrto
+## admininiastradrto
