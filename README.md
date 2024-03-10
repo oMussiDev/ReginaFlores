@@ -1,6 +1,10 @@
 # ReginaFlores
 
 Vamos criar o site teste de regina flores!!!!!
+
+## Datas de entregas
+- 23/3/2024
+
 ## DB
 
 ## index
